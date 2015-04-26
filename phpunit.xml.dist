@@ -13,7 +13,7 @@
 
     <!-- Add any additional test suites you want to run here -->
     <testsuites>
-        <testsuite name="Ewbarnard/RefactoredControllerTheme Test Suite">
+        <testsuite name="RefactoredControllerTheme Test Suite">
             <directory>./tests/TestCase</directory>
         </testsuite>
     </testsuites>

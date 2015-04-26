@@ -1,6 +1,6 @@
 {
-    "name": "your-name-here/Ewbarnard/RefactoredControllerTheme",
-    "description": "Ewbarnard/RefactoredControllerTheme plugin for CakePHP",
+    "name": "ewbarnard/refactored-controller-theme",
+    "description": "RefactoredControllerTheme plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
         "php": ">=5.4",
@@ -11,12 +11,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Ewbarnard/RefactoredControllerTheme\\": "src"
+            "RefactoredControllerTheme\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ewbarnard/RefactoredControllerTheme\\Test\\": "tests",
+            "RefactoredControllerTheme\\Test\\": "tests",
             "Cake\\Test\\": "./vendor/cakephp/cakephp/tests"
         }
     }
